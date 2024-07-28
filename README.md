@@ -16,7 +16,7 @@ ___
 Desafio de Projeto sobre Design Pattern, em especifico Padrões de projeto, de Java.
 
 
-## 👨‍💻 Criadora e Aluna
+## 👨‍💻 Criadora
 
 * **Julianne Castro** - *Owner* - [Instagram](https://www.instagram.com/jucastrum/)
 
