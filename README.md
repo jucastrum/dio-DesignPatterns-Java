@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img alt="Banner of Project" title="" src="https://user-images.githubusercontent.com/53992405/205208120-3145761a-dea5-4f9f-8324-fbe667ee1202.png" width="500px" height="250px" />
+    <img alt="Banner of Project" title="" src="https://github.com/user-attachments/assets/4c6fccfe-fb2b-4d51-8db1-153ca2d2206a" width="500px" height="250px" />
 </h2>
 <p align="center">
   <h1 align="center">Desafio de Projeto sobre Design Pattern</h1>
