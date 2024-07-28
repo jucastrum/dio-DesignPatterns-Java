@@ -25,9 +25,4 @@ Desafio de Projeto sobre Design Pattern, em especifico Padrões de projeto, exig
 No license.
 
 ---
-
-[github-ga]: https://github.com/PuniGC
-[linkedin-ga]: https://www.linkedin.com/in/gabriel-santana-silva/
-[email-ga]: mailto:gabriel04.ok@gmail.com
-[instagram-ga]: https://www.instagram.com/gabrielsants_dev/
 [license]: LICENSE
