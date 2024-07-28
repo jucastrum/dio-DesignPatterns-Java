@@ -13,7 +13,7 @@
 ___
 
 ## 💻 Sobre
-Desafio de Projeto sobre Design Pattern, em especifico Padrões de projeto, exigido na Potencia Tech Java Potencia Tech Java Beginners, bootcamp da Dio-iFood. 
+Desafio de Projeto sobre Design Pattern, em especifico Padrões de projeto, de Java.
 
 
 ## 👨‍💻 Criadora e Aluna
